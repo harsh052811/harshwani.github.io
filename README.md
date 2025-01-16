@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, AWS, AZURE, Tableau, Power BI, Language models (LLM, SLM), PySpark, NoSQL
 
 ## Education
 - B.Tech , Computer Science |Ganpat University (_April 2023_)								       		
@@ -40,25 +40,45 @@ Developed a comprehensive Instagram analytics tool using Python and GraphQL that
 
 ![Instagram Analytics Dashboard](/assets/img/instagram_analytics.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+### Diabetic Retinopathy Classification Using Deep Learning 🔬
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+Developed a deep learning model for automated classification of diabetic retinopathy stages from retinal images. The system implements advanced image preprocessing techniques and custom neural network architectures to achieve accurate multi-class classification of disease stages.
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+**Key Achievements:**
+- Designed and implemented a comprehensive image preprocessing pipeline using OpenCV for enhanced feature extraction
+- Built a custom CNN architecture achieving 90%+ classification accuracy across four disease stages
+- Implemented data augmentation techniques to improve model generalization
+- Created an automated evaluation system with detailed performance metrics and visualization
+- Developed a scalable training pipeline supporting multiple GPU acceleration
 
-- [Data Science Blog](https://medium.com/@shawhin)
+**Technical Implementation:**
+- Utilized TensorFlow/Keras for model development with custom CNN architecture
+- Implemented advanced image processing techniques using OpenCV
+- Created comprehensive data visualization using Matplotlib and Seaborn
+- Developed automated training and evaluation pipelines
+- Integrated early stopping and model checkpointing for optimal performance
+
+**Tech Stack:** Python, TensorFlow, OpenCV, NumPy, Pandas, Matplotlib, Seaborn
+
+![Retinopathy Classification](/assets/img/retinopathy_classification.jpeg)
+
+## Public Speaking & Workshops 🎤
+
+### IEEE Student Branch DAIICT - Machine Learning Workshop
+**Lead Speaker & Workshop Conductor (_March 2024_)**
+
+Led an engaging Machine Learning workshop at Dhirubhai Ambani Institute of Information and Communication Technology, collaborating with fellow speakers Ali Asgar Zakir & Harsh Wani. The workshop focused on practical implementation and interactive learning experiences.
+
+**Workshop Highlights:**
+- Conducted hands-on sessions covering fundamental to advanced ML concepts
+- Engaged with 100+ students through interactive coding demonstrations
+- Facilitated group exercises and real-world problem-solving scenarios
+- Received outstanding feedback with 95% positive participant ratings
+- Successfully implemented practical ML projects during the workshop
+
+**Topics Covered:**
+- Machine Learning Fundamentals
+- Neural Networks & Deep Learning
+- Model Training & Evaluation
+- Real-world Applications & Case Studies
+- Best Practices in ML Development
