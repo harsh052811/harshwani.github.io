@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, AZURE, Tableau, Power BI, Language models (LLM, SLM), PySpark, NoSQL
 
 ## Education
-- B.Tech , Computer Science |Ganpat University (_April 2023_)								       		
+- B.Tech , Computer Science |Ganpat University (_April 2022_)								       		
 - PGDP, Artificial Intelligence and Machine learning | Lambton College (_August 2025_)	 			        		
 
 ## Work Experience
