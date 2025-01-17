@@ -63,6 +63,8 @@ Developed a deep learning model for automated classification of diabetic retinop
 
 **Tech Stack:** Python, TensorFlow, OpenCV, NumPy, Pandas, Matplotlib, Seaborn
 
+![Retinopathy Classification](/assets/img/retinopathy_classification.jpeg)
+
 ### **UK Bank Employment Analysis Across Four Countries** 🌍  
 
 Developed an analytical system to study employment trends in banks across four countries using data from UK-based institutions. The system analyzed employment status based on gender, job type, and balance sheet data to uncover critical patterns and insights.  
@@ -86,8 +88,8 @@ Developed an analytical system to study employment trends in banks across four c
 - **Libraries/Tools:** Pandas, NumPy, Tableau  
 - **Visualization Tools:** Tableau, Matplotlib, Seaborn  
 
+![Customer Baseline Dashboard](UK Bank.png)
 
-![Retinopathy Classification](/assets/img/retinopathy_classification.jpeg)
 
 ## Public Speaking & Workshops 🎤
 
