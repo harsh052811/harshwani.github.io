@@ -63,6 +63,30 @@ Developed a deep learning model for automated classification of diabetic retinop
 
 **Tech Stack:** Python, TensorFlow, OpenCV, NumPy, Pandas, Matplotlib, Seaborn
 
+### **UK Bank Employment Analysis Across Four Countries** 🌍  
+
+Developed an analytical system to study employment trends in banks across four countries using data from UK-based institutions. The system analyzed employment status based on gender, job type, and balance sheet data to uncover critical patterns and insights.  
+
+---
+
+**Key Achievements:**  
+- **Comprehensive Data Understanding:** Conducted in-depth exploratory analysis to identify trends in gender-based employment, job types, and financial distributions.  
+- **Data Preprocessing:** Designed and implemented a robust preprocessing pipeline to handle missing values, normalize datasets, and encode categorical variables.  
+- **Interactive Dashboards:** Developed dynamic dashboards in Tableau to visualize employment distribution, gender disparities, and financial trends effectively.  
+- **Trend Analysis:** Identified key insights into employment patterns, enabling stakeholders to understand disparities and take informed actions.  
+- **Scalable Workflow:** Streamlined the workflow to handle large datasets and ensured reproducibility for future analyses.  
+**Technical Implementation:**  
+- **Data Cleaning:** Utilized Python libraries (Pandas, NumPy) to clean, process, and prepare the dataset for analysis.  
+- **Visualization:** Used Tableau to create interactive and visually appealing dashboards for real-time data exploration.  
+- **Analysis Pipeline:** Automated data processing and visual reporting for seamless workflow integration.  
+- **Evaluation:** Generated detailed reports with comparative analysis of employment status by country, gender, and job type.  
+
+**Tech Stack:**  
+- **Languages:** Python  
+- **Libraries/Tools:** Pandas, NumPy, Tableau  
+- **Visualization Tools:** Tableau, Matplotlib, Seaborn  
+
+
 ![Retinopathy Classification](/assets/img/retinopathy_classification.jpeg)
 
 ## Public Speaking & Workshops 🎤
